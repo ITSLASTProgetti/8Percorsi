@@ -1,0 +1,24 @@
+Nome percorso;Identificativo;Tipo;Fondo;Lunghezza (km);Tipo percorso (comunale, provinciale, ecc.);Note
+CICLOVIA MANTOVA-PESCHIERA;VIA ANDREA MANTEGNA - VIA MONZAMBANO;Ciclabile;Asfalto;9,7;Demaniale;
+FORONI-VALEGGIO SUL MINCIO;VIA GALILEO FERRARIS  - VIA RAGAZZI DEL '99;Ciclopedonale;Asfalto;1,5;Comunale;Fino a Piazza della Repubblica
+RAGAZZI DEL '99;VIA RAGAZZI DEL '99, VALEGGIO SUL MINCIO;Ciclopedonale;Asfalto;0,63;Comunale;Da intersezione con Via F.lli Cervi a intersezione con Via Circonvallazione Sud 
+MARTINELLI;VIA GIROLAMO GOTTARDI, VALEGGIO SUL MINCIO;Ciclopedonale;Asfalto;0,15;Comunale;Da intersezione con Via dei Partigiani a Farmacia Perina
+GIROLAMO GOTTARDI/PARTIGIANI;VIA GIROLAMO GOTTARDI - VIA DEI PARTIGIANI, VALEGGIO SUL MINCIO;Ciclopedonale;Asfalto;0,78;Comunale;Da Via dei Partigiani al parcheggio di Via Nilo Mondin
+GIROLAMO GOTTARDI/COL. G. FINCATO  ;VIA GIROLAMO GOTTARDI - VIA COL. G. FINCATO, VALEGGIO SUL MINCIO;Ciclabile;Asfalto;0,9;Comunale;Fino a Intersezione con Via Giuseppe Mazzini
+DON GIOVANNI BELTRAME;VIA DON GIOVANNI BELTRAME, VALEGGIO SUL MINCIO;Ciclopedonale;Asfalto;0,28;Comunale;
+GUGLIELMO MARCONI-ANTONIO MURARI;VIA GUGLIELMO MARCONI - VIA ANTONIO MURARI, VALEGGIO SUL MINCIO;Ciclopedonale;Misto;0,57;Comunale;Fino a Via Vittorio Emanuele II
+VICOLO CUSTOZA;VICOLO CUSTOZA, VALEGGIO SUL MINCIO;Pedonale;Asfalto;0,1;Comunale;
+VIALE PADRE ANGELO GIACOMELLI;VIALE PADRE ANGELO GIACOMELLI, VALEGGIO SUL MINCIO;Ciclopedonale;Asfalto;0,42;Comunale;
+VIA VENEZIA - VIA TRIESTE;VIA VENEZIA - VIA TRIESTE, VALEGGIO SUL MINCIO;Ciclopedonale;Misto;0,75;Comunale;
+VIA CAVOUR;VIA CAVOUR, VALEGGIO SUL MINCIO;Ciclopedonale;Asfalto;0,76;Comunale;Da intersezione con Via Vittorio Emanuele II
+VIALE PAPA GIOVANNI XXIII;VIALE PAPA GIOVANNI XXIII, VALEGGIO SUL MINCIO;Ciclabile;Asfalto;0,16;Comunale;Fino a intersezione con Via Baden-Powell
+GIUSEPPE MAZZINI;VIA GIUSEPPE MAZZINI, VALEGGIO SUL MINCIO;Ciclabile;Asfalto;0,51;Comunale;Fino a cimitero
+FANTE;VIA DEL FANTE, VALEGGIO SUL MINCIO;Ciclabile;Asfalto;0,3;Comunale;Fino a intersezione con Via Fratelli Cervi
+FONTANELLO;VIA CASTELNUOVO, FONTANELLO;Pedonale;Asfalto;0,46;Comunale;
+LOCALITA' CA' NUOVA SALIONZE;LOCALITA' CA' NUOVA SALIONZE, SALIONZE;Ciclabile;Misto;0,28;Comunale;Fino a intersezione con Via Pastrengo
+VIA TRENTO SALIONZE;VIA DEL GARDA - VIA TRENTO, SALIONZE;Ciclopedonale;Asfalto;0,83;Comunale;
+SALIONZE-CAMALAVICINA;VIA TRENTO, SALIONZE- VIA CAMALAVICINA ;Strada;Asfalto;0,89;Comunale;Fino a Camalavicina
+CICLOVIA MANTOVA-PESCHIERA;SALIONZE;Ciclabile;Asfalto;0,35;Demaniale;
+VIA ROMA - PIAZZA CARLO ALBERTO;VIA ROMA-PIAZZA CARLO ALBERTO, VALEGGIO SUL MINCIO;Pedonale;Misto;0,13;Comunale;
+;;;;;;
+;;;;;;
