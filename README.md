@@ -1,39 +1,52 @@
 # Gruppo8 - Percorsi
-Descrizione idea
-La nostra idea fornisce la mappatura dei percorsi nell’ovest veronese, evidenziando un percorso si può avere delle informazioni come:
-•	Lunghezza percorso
-•	Ipotesi durata
-•	Mazzi Accessibili 
-•	Difficoltà: Facile-Medio-Difficile
-•	Descrizione del percorso (Asfaltato, sterrato…)
+Descrizione idea La nostra idea fornisce la mappatura dei percorsi nell’ovest veronese,
+evidenziando un percorso si può avere delle informazioni come: 
+• Lunghezza percorso 
+• Ipotesi durata 
+• Mezzi Accessibili 
+• Difficoltà:Facile-Medio-Difficile 
+• Descrizione del percorso (Asfaltato, sterrato…)
 
-In una pagina secondaria si potrà vedere altre informazioni secondarie come:
-•	Punti di ristoro nel percorso selezionato 
-•	Affollamento
-•	Eventi organizzabili
-I Target di riferimento sono adolescenti e adulti anche affetti da disabilità.
-Il nostro obbiettivo è aumentare il contatto tra uomo e natura ed aumentare la conoscenza del territorio attraverso i percorsi.
+secondarie informazioni :
+• Punti di ristoro nel percorso selezionato
+• Eventi organizzabili I Target di riferimento sono adolescenti e adulti anche affetti da disabilità.
+  Il nostro obbiettivo è aumentare il contatto tra uomo e natura ed aumentare la conoscenza del territorio attraverso i percorsi.
 
-        Divisione Gruppo
-Sangarajage Simona: Parte Grafica 
-Mattia Gobbi : Parte esposizione
-Francesco Tedeschi : Proggrammazione
-Leonardo Zenatti : Programmazione
 
-        Tecnologie usate
+sito web : percorsi 
 
-Sito Web: Html Css Javascript
-Bot di telegram
 
-        Tempo di lavoro 
-        
-Codice per estrazione dati: 3h
-Funzione nome: 1h
-lunghezza percorso: 2h
-Tipo di percorso: 1h 
-Sito Web: 24h
-Funzione per difficoltà e tempo per fare il percorso e raccolta dati con form (Richiesta all'utente): 3h
-Funzione per dire il tipo di mezzi che possono atraversare il percorso attraverso l'identificativo: 1h
-Richiesta all'utente per eventi possibili nei vari percorsi: 1h
-Richiesta all'utente per punti di ristoro nei vari percorsi: 1h
+Il lavoro sarà strutturato in questo modo:
 
+PRIMA PAGINA
+_____________
+TITOLO:PERCORSI
+TITOLO SECONDARIO:SCEGLI LA ZONA DESIDERATA 
+
+Nella parte centrale della pagina saranno posti una sfilza di bottoni che
+indicano le varie località. 
+Nel momento in cui viene premuto un bottone , si viene catapultati in una pagina 
+riguardante il titolo del bottone. 
+Questo processo vale per tutti quanti i bottoni. 
+
+PAGINA SECONDARIA
+_________________
+TITOLO:NOME DEL PERCORSO 
+TITOLO SECONDARIO : SCEGLI IL PERCORSO 
+
+Anche questa pagina seguirà la stessa struttura di quella predominante . Ogni bottone aprirà un'altra pagina 
+riguardante il titolo del bottone premuto.
+
+TERZA PAGINA
+_____________
+La pagina mostrerà una foto del percorso in questione . 
+Sarà presente una descrizione dettaglita che includerà quello che è presnte sovrastante ,
+inotlre saranno presenti le secondarie informazioni.
+
+
+FUNZIONI :
+BOTTONI--->Filtraggio dati per determinare il percorso
+Bot di telegram per deteminare il "viaggio" per adare al percorso
+
+
+tempistiche presupposte :15 ore 
