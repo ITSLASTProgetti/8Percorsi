@@ -46,7 +46,7 @@ inotlre saranno presenti le secondarie informazioni.
 
 FUNZIONI :
 BOTTONI--->Filtraggio dati per determinare il percorso
-Bot di telegram per deteminare il "viaggio" per adare al percorso
+Bot di telegram per dare i precorsi vicini al dispositivi e filtrarli attrverso "query"
 
 
 tempistiche presupposte :15 ore 
