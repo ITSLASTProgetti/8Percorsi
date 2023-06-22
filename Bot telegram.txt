@@ -1,0 +1,6 @@
+Bot telegram
+FUNZIONI:
+Ricerca attraverso query (Fatto)
+Funzione per richidere i dati in input----Non riesco a prendere i dati in input
+Ricerca percorsi vicini
+Unione delle varie funzioni
